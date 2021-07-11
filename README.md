@@ -1,4 +1,4 @@
-[![Minari](https://i.imgur.com/gpzJjUk.jpg)](https://minari.rf.gd/?i=1)
+[![Minari](https://imgur.com/gpzJjUk.jpg)](https://minari.rf.gd/?i=1)
 # MINARI ECOMMERCE WEBSITE
 ===========================
 
